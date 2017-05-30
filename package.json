@@ -1,0 +1,9 @@
+{
+  "name": "re-store",
+  "version": "0.1.0",
+  "description": "Flexible redux actions & reducers",
+  "main": "index.js",
+  "repository": "git@github.com:alexkreskiyan/re-store",
+  "author": "Alex Kreskiyan <brutalllord@gmail.com>",
+  "license": "MIT"
+}
