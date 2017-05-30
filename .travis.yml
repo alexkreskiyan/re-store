@@ -4,3 +4,4 @@ node_js:
 script: yarn build
 notifications:
   email: false
+  slack: ii-rstrm:z9oZ2b8yzwv3EBtuXaLTWCYk
