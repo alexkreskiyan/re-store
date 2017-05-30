@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "declaration": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "lib": [
+      "es6"
+    ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "rootDirs": [
+      "src/",
+      "test/"
+    ],
+    "strict": true,
+    "target": "es5",
+    "outDir": "dist"
+  },
+  "files": [
+    "src/index.ts"
+  ]
+}
